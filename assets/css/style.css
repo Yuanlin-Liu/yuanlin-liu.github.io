@@ -245,7 +245,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #a7ffeb repeat;
+  background: #096cff repeat;
   position: relative;
 }
 
@@ -275,7 +275,7 @@ h3 {
   border-bottom: 5px solid #24305e;
 }
 
-#intro.section .teal {
+#intro.section .blue {
   padding: 0 10px;
 }
 
@@ -469,23 +469,23 @@ small {
   color: #666 !important;
 }
 
-/* main .teal-text */
+/* main .blue-text */
 
-.teal-text {
-  color: #029e99 !important;
+.blue-text {
+  color: #000679 !important;
 }
 
-/* .teal-text {
+/* .blue-text {
   color: #0b5e86 !important;
 } */
 
-/* .teal */
+/* .blue */
 
-.teal {
-  background-color: #029e99 !important;
+.blue {
+  background-color: #000679 !important;
 }
 
-/* .teal {
+/* .blue {
   background-color: #00695c !important;
 } */
 
@@ -525,7 +525,7 @@ small {
     position: absolute;
   }
   nav a.button-collapse, nav a.button-collapse i {
-    color: #056b0c;
+    color: #000679;
     height: 56px;
     line-height: 56px;
   }
